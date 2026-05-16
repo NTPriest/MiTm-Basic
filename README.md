@@ -37,7 +37,7 @@ cd basicMitm.py
 
 3.Enter the requested info.
 Watch the script run: it will poison the ARP caches, sniff packets, and show summaries in real-time.
-4.Stop it anytime with Ctrl+C — it automatically restores ARP tables to prevent lasting network issues.
+4.Stop it anytime with Ctrl+C - it automatically restores ARP tables to prevent lasting network issues.
 
 ## Safety & Ethics
 Use **only** in **lab** or **test networks**.
